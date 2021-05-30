@@ -1,0 +1,7 @@
+include ':dialog'
+include ':notificationapp'
+include ':toastapp'
+include ':myapplication2'
+include ':myapplication'
+include ':app'
+rootProject.name = "ru.mirea.shandycova.2"
